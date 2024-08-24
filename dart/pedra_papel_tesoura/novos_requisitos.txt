@@ -1,0 +1,12 @@
+-  No começo, perguntar se o usuário quer maior probabilidade de vitória para ele ou para o computador
+- Quem ele escolher, deve ficar com 70% de chance de vitória, a cada rodada
+
+- O usuário pode escolher as três probabilidades
+
+- O usuário pode escolher quantas rodadas deseja, de 1 a 10
+
+- A cada rodada, o vencedor ganha um ponto
+
+- Mostrar o vencedor no final
+
+- Se, após o término de todas as rodadas, houver empate, desempatar nos "pênaltis"
